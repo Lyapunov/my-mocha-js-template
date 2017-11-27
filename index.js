@@ -1,4 +1,4 @@
-class MyProject {
+export default class MyProject {
    constructor() {
       console.log("constructed");
    }
